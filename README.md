@@ -48,7 +48,6 @@ I am also full of curiosity to learn more about coding whenever I have the oppor
 </div>
 
 <br/>
-<br/>
 
 <h1>Stats:</h1>
 <div align="center" dir="auto">
