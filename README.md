@@ -1,6 +1,13 @@
 ![banner_5_optimized_1000](https://github.com/DD00DD/DD00DD/assets/147881128/b3e66b14-9732-47a1-a2c3-88717ccffab0)
 
+<p align="left"> </p>
+I am a computer science co-op student attending Toronto Metropolitan University (formerly Ryerson University). 
+I am eager to learn more about developing video games and artificial intelligence technologies.
+I have a strong understanding of Java, Python, Bash, Lisp, C, C++, Smalltalk/Pharo, Haskell, Elixir, Rust, Visual Basic, HTML, CSS, Javascript, Git, and I have also dabbled in Unity Engine, C#, and Lua
+I am also full of curiosity to learn more about coding whenever I have the opportunity to.
+<p align="left">
 
+<h1 size="50px"> Tech Stack: </h1>
 
 <!--
 **DD00DD/DD00DD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
