@@ -6,7 +6,9 @@ I am eager to learn more about developing video games and artificial intelligenc
 I have a strong understanding of Java, Python, Bash, Lisp, C, C++, Smalltalk/Pharo, Haskell, Elixir, Rust, Visual Basic, HTML, CSS, Javascript, Git, and I have also dabbled in Unity Engine, C#, and Lua
 I am also full of curiosity to learn more about coding whenever I have the opportunity to.
 <p align="left">
-
+  
+<br/>
+  
 <h1 size="50px"> <b>Tech Stack:</b> </h1>
 <div>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -43,6 +45,18 @@ I am also full of curiosity to learn more about coding whenever I have the oppor
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+</div>
+
+<br/>
+<br/>
+
+<div align="center" dir="auto">
+  <a href="https://github.com/DD00DD/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DD00DD&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff" />
+  </a>
+  <a href="https://github.com/DD00DD/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DD00DD&layout=compact&langs_count=8&card_width=320&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff" />
+  </a>
 </div>
 
 <!--
