@@ -1,4 +1,8 @@
+![](https://komarev.com/ghpvc/?username=DD00DD&style=for-the-badge&abbreviated=true)
 ![banner_5_optimized_1000](https://github.com/DD00DD/DD00DD/assets/147881128/b3e66b14-9732-47a1-a2c3-88717ccffab0)
+
+## Hey There! 👋
+<a href="https://www.linkedin.com/in/ddedda/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <p align="left"> </p>
 I am a computer science co-op student attending Toronto Metropolitan University (formerly Ryerson University). 
@@ -58,6 +62,7 @@ I am also full of curiosity to learn more about coding whenever I have the oppor
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DD00DD&layout=compact&langs_count=8&card_width=320&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff" />
   </a>
 </div>
+
 
 <!--
 **DD00DD/DD00DD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
