@@ -35,6 +35,9 @@ I am also full of curiosity to learn more about coding whenever I have the oppor
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 </div>
 
+<h3>Game Development Tools:</h3>
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+
 <h3>Currently Learning:</h3>
 <div>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
