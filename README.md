@@ -50,7 +50,7 @@ I am also full of curiosity to learn more about coding whenever I have the oppor
 <br/>
 <br/>
 
-<h3>Stats:</h3>
+<h1>Stats:</h1>
 <div align="center" dir="auto">
   <a href="https://github.com/DD00DD/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DD00DD&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff" />
