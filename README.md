@@ -1,11 +1,10 @@
-## Hi there 👋
-  <img align="right" width="400" src="">
+![banner_5_optimized_1000](https://github.com/DD00DD/DD00DD/assets/147881128/b3e66b14-9732-47a1-a2c3-88717ccffab0)
 
 
 
 <!--
 **DD00DD/DD00DD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
