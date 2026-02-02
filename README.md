@@ -64,6 +64,7 @@ I am also full of curiosity to learn more about coding whenever I have the oppor
 <h3>Data Metrics</h3>
 <div>
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 </div>
 
 <h3>Currently Learning:</h3>
